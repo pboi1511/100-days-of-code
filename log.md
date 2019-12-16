@@ -18,3 +18,8 @@
 **Thoughts**: Andrew ng is boring
 
 **Link(s) to work**: check my repo. :)
+### Day 4: ( Basics Of Python ) 16-12-2019
+
+**Today's Progress**: Array operations in python and numpy
+**Thoughts**: NA
+**Link(s) to work**: check my repo. :)
