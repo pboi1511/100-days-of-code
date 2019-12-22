@@ -25,8 +25,14 @@
 **Thoughts**: NA
 **Link(s) to work**: check my repo. :)
 
-### Day 4: ( Basics Of Python ) 18-12-2019
+### Day 5: ( Basics Of Python ) 18-12-2019
 
 **Today's Progress**: Array operations in python and numpy . xD
 **Thoughts**: NA
+**Link(s) to work**: check my repo. :)
+
+### Day 6: ( Basics Of Python ) 20-12-2019
+
+**Today's Progress**: Matrix addition and multiplication
+**Thoughts**: missed a day
 **Link(s) to work**: check my repo. :)
