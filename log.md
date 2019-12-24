@@ -34,5 +34,17 @@
 ### Day 6: ( Basics Of Python ) 20-12-2019
 
 **Today's Progress**: Matrix addition and multiplication
-**Thoughts**: missed a day
+**Thoughts**:  NA
+**Link(s) to work**: check my repo. :)
+
+### Day 7: ( Basics Of Python ) 22-12-2019
+
+**Today's Progress**: Hackerank quuestions solution
+**Thoughts**: NA
+**Link(s) to work**: check my repo. :)
+
+### Day 8: ( Basics Of Python ) 24-12-2019
+
+**Today's Progress**: permutation and combination implementation in python
+**Thoughts**: NA
 **Link(s) to work**: check my repo. :)
